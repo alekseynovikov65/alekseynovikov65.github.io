@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7f3f398-ded8-4479-9bda-aced7d38d981" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alekseynovikov65.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aaa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cuUrAYfOHM1P3qN3lNHaa7QZ1f" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alexei\OneDrive\Рабочий стол\github\alekseynovikov65.github.io\static" />
+      <recent name="C:\Users\Alexei\OneDrive\Рабочий стол\github\alekseynovikov65.github.io\templates" />
+      <recent name="C:\Users\Alexei\OneDrive\Рабочий стол\github\alekseynovikov65.github.io" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.aaa">
+    <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/alekseynovikov65.github.io/templates/Index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alekseynovikov65.github.io" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\getting_started\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aaa" />
+        <item itemvalue="JavaScript Debug.Index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f3f398-ded8-4479-9bda-aced7d38d981" name="Default Changelist" comment="" />
+      <created>1591378167475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591378167475</updated>
+      <workItem from="1591378170866" duration="20043000" />
+      <workItem from="1592034960296" duration="2834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="642" y="52" key="#aaa" timestamp="1591379416827">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="642" y="52" key="#aaa/0.0.1474.864@0.0.1474.864" timestamp="1591379416827" />
+    <state width="1342" height="269" key="GridCell.Tab.0.bottom" timestamp="1591966324348">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1342" height="269" key="GridCell.Tab.0.bottom/0.0.1472.864@0.0.1472.864" timestamp="1591966324348" />
+    <state width="1342" height="327" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1591885825992" />
+    <state width="1342" height="269" key="GridCell.Tab.0.center" timestamp="1591966324348">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1342" height="269" key="GridCell.Tab.0.center/0.0.1472.864@0.0.1472.864" timestamp="1591966324348" />
+    <state width="1342" height="327" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1591885825992" />
+    <state width="1342" height="269" key="GridCell.Tab.0.left" timestamp="1591966324348">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1342" height="269" key="GridCell.Tab.0.left/0.0.1472.864@0.0.1472.864" timestamp="1591966324348" />
+    <state width="1342" height="327" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1591885825991" />
+    <state width="1342" height="269" key="GridCell.Tab.0.right" timestamp="1591966324348">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1342" height="269" key="GridCell.Tab.0.right/0.0.1472.864@0.0.1472.864" timestamp="1591966324348" />
+    <state width="1342" height="327" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1591885825992" />
+    <state width="1342" height="269" key="GridCell.Tab.1.bottom" timestamp="1591966324348">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1342" height="269" key="GridCell.Tab.1.bottom/0.0.1472.864@0.0.1472.864" timestamp="1591966324348" />
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1591379721754" />
+    <state width="1342" height="269" key="GridCell.Tab.1.center" timestamp="1591966324348">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1342" height="269" key="GridCell.Tab.1.center/0.0.1472.864@0.0.1472.864" timestamp="1591966324348" />
+    <state width="1342" height="258" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1591379721754" />
+    <state width="1342" height="269" key="GridCell.Tab.1.left" timestamp="1591966324348">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1342" height="269" key="GridCell.Tab.1.left/0.0.1472.864@0.0.1472.864" timestamp="1591966324348" />
+    <state width="1342" height="258" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1591379721754" />
+    <state width="1342" height="269" key="GridCell.Tab.1.right" timestamp="1591966324348">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state width="1342" height="269" key="GridCell.Tab.1.right/0.0.1472.864@0.0.1472.864" timestamp="1591966324348" />
+    <state width="1342" height="258" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1591379721754" />
+    <state x="218" y="66" key="SettingsEditor" timestamp="1591882414371">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="218" y="66" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1591882414371" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/alekseynovikov65_github_io$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1591901840219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
